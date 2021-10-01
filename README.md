@@ -1,2 +1,2 @@
 # fashion-blog
-## View Project: https://dunndeft-fashion-blog.netlify.app
+## View Project: https://fashion-blog.dunndeft.repl.co/
